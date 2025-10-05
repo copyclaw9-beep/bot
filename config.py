@@ -13,5 +13,5 @@ API_KEY = os.getenv('BINANCE_API_KEY')
 API_SECRET = os.getenv('BINANCE_API_SECRET')
 
 # Trading Parameters
-SYMBOL = "BTCUSDT"
-QUANTITY = 0.001  # Small amount for testing
+SYMBOL = "DOGEUSDT"
+QUANTITY = 1  # Small amount for testing
