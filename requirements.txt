@@ -1,6 +1,9 @@
-requests==2.31.0
 python-binance==1.0.19
 pandas==2.0.3
-numpy==1.24.3
+pandas_ta==0.3.14b0
+websocket-client==1.6.3
+plotly==5.15.0
+dash==2.14.1
+dash-bootstrap-components==1.5.0
 python-dotenv==1.0.0
-schedule==1.2.0
+numpy==1.24.3
