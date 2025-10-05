@@ -1,9 +1,5 @@
-# Python
-__pycache__/
-*.pyc
 .env
 *.log
-
-# API keys and secrets
-config.py
-secrets.py
+__pycache__/
+*.pyc
+.DS_Store
